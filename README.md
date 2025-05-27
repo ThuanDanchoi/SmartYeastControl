@@ -88,6 +88,10 @@ python src/inference/predict_recommender.py
 # Run Downtime Detection
 python src/inference/predict_downtime.py
 
+# Run Web Interface with Streamlit
+streamlit run ui/app.py
+```
+
 Contributors
 Duc Thuan Tran – 104330455
 
