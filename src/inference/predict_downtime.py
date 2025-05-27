@@ -1,9 +1,11 @@
 import joblib
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[2]
+
 def predict_downtime(df):
     # load model training
-    model_path = Path("models/downtime/downtime_model.joblib")
+    model_path = ROOT / "models" / "downtime" / "downtime_model_tuned.joblib"
     model = joblib.load(model_path)
 
     # drop the columns
