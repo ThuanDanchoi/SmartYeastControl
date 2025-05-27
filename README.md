@@ -100,7 +100,9 @@ Dion Finnerty – 103545669
 
 Winston Li – 104005371
 
-Amavi Uththara – 104348238
+Amavi Uththara – 104348238 
+
+Chiraath - 104834009
 
 License
 This project is developed for educational purposes as part of an AI and manufacturing assignment at Swinburne University of Technology. No official license is applied.
