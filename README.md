@@ -93,6 +93,7 @@ streamlit run ui/app.py
 ```
 
 Contributors
+
 Duc Thuan Tran – 104330455
 
 Dion Finnerty – 103545669
